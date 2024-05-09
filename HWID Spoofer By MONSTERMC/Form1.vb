@@ -192,7 +192,7 @@ Public Class Form1
         End Try
     End Sub
 #End Region
-    ' وهكذا نستمر لباقي الأوامر
+    ' باقي الأوامر
 
     Private Sub DownloadFiles()
         Try
